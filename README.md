@@ -1,4 +1,4 @@
-# Run
+# Run⚡
 1. Install all require packages with this command.
 ```
 python install -r requirements.txt
