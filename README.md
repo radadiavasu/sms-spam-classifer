@@ -9,7 +9,7 @@ python install -r requirements.txt
 streamlit run app.py
 ```
 
-# Explore
+# Explore🧐
 
 1. Run jupyter-notebook.
 2. Look-out the csv file once.
